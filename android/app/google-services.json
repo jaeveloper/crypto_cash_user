@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "764417044393",
+    "firebase_url": "https://crypto-cash-560af.firebaseio.com",
+    "project_id": "crypto-cash-560af",
+    "storage_bucket": "crypto-cash-560af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764417044393:android:0bb6a3c75d09e4c17c5eb8",
+        "android_client_info": {
+          "package_name": "com.example.crypto_cash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764417044393-47aq2njjrhal2tu42e4j5h12ooecmtkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogNW3PcaIrK5z4BfI66V5yQDNOpjaYTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764417044393-47aq2njjrhal2tu42e4j5h12ooecmtkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764417044393:android:52741fcc7c71e55d7c5eb8",
+        "android_client_info": {
+          "package_name": "com.example.crypto_cash_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764417044393-47aq2njjrhal2tu42e4j5h12ooecmtkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogNW3PcaIrK5z4BfI66V5yQDNOpjaYTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764417044393-47aq2njjrhal2tu42e4j5h12ooecmtkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
